@@ -30,6 +30,8 @@ Clicks on the "Allow all cookies" button (if visible).
 Fills in the registration form with sample data for first name, last name, email, password, birthday, and gender.
 Submits the registration form and handles email verification.
 Prompts the user to input the verification code sent to the email and submits it.
+
+
 2. Update Facebook Account
 
 This test automates logging into Facebook and updating the user's bio:
